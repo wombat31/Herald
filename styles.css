@@ -1,0 +1,15 @@
+#main > div{
+    float:left;
+    overflow:hidden;
+}
+aside p + a {
+    display: block;
+    text-decoration: none;
+    border: 5px double;
+    color: #ffffff;
+    background-color: #484848;
+    text-align: center;
+    font-size: 28px;
+    margin: 1px 0;
+    position: relative;
+}
